@@ -8,4 +8,4 @@ Then use `prefix + I` to install
 
 # Neovim
 Create symlink for tmux config
-`ln -s ~/dotfiles/nvim/ ~/.config/nvim`
+`ln -s ~/dotfiles/nvim ~/.config/nvim`
