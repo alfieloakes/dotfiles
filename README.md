@@ -1,5 +1,5 @@
 Create symlink for tmux config
-`ln -s ~/dotfiles/tmux.conf ~/.tmux.conf`
+`ln -s ~/dotfiles/tmux/.tmux.conf ~/.tmux.conf`
 
 Add TPM (Tmux Package Manager)
 `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
