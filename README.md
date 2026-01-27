@@ -6,3 +6,6 @@ Add TPM (Tmux Package Manager)
 
 Then use `prefix + I` to install
 
+# Neovim
+Create symlink for tmux config
+`ln -s ~/dotfiles/nvim/ ~/.config/nvim`
